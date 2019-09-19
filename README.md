@@ -1,1 +1,2 @@
-cerrarSesion
+-Tiempo de expiracion de sesion
+-Sesion inactiva
